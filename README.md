@@ -1,27 +1,213 @@
-# About Me:
-## <br><br>Hi! I'm **Sivabalan D**, an Information Technology student passionate about **Software Development, AI, and Web Technologies**.<br><br>🎓 Currently pursuing **B.Tech in Information Technology** at Manakula Vinayagar Institute of Technology, Puducherry.<br><br>💻 I enjoy building **full-stack applications, AI-powered solutions, and real-world projects** while continuously improving my problem-solving and development skills.<br><br>🚀 **Interests:**<br><br>* 🤖 Artificial Intelligence & Machine Learning<br>* 🌐 Full-Stack & Web Development<br>* 🔐 Cybersecurity & Zero Trust Systems<br>* 🔧 IoT & Smart Automation<br><br>🛠️ **Tech Stack:** Python • React • JavaScript • HTML • CSS • FastAPI • PyTorch • MySQL • Git & GitHub<br><br>📌 Currently learning, building, experimenting, and looking for opportunities to turn ideas into useful software.<br><br>> **“Learn. Build. Improve. Repeat.”**<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,11,12,20,24&height=200&section=header&text=Sivabalan%20D&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9333EA&center=true&vcenter=true&width=600&lines=Building+Full-Stack+Applications;Developing+AI-Powered+Solutions;Exploring+Cybersecurity+%26+Zero+Trust;IoT+%26+Smart+Automation" alt="Typing SVG" />
+  </a>
+  <br/><br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siva Balan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siva38938@gmail.com) 
+  <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Information%20Technology-4C1D95?style=for-the-badge&logo=academicons&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Puducherry%2C%20India-581C87?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
+  <a href="mailto:siva38938@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Siva Balan"><img src="https://img.shields.io/badge/LinkedIn-Connect-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <br/><br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sivabalan-05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sivabalan-05&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sivabalan-05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sivabalan-05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sivabalan-05&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://komarev.com/ghpvc/?username=Sivabalan-05&color=7e22ce&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Sivabalan-05?label=FOLLOWERS&style=flat-square&color=6b21a8" />
+  <img src="https://img.shields.io/github/stars/Sivabalan-05?label=STARS&style=flat-square&color=581c87" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sivabalan-05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧬 About Me
+
+Hi! I'm **Sivabalan D**, an Information Technology student passionate about **Software Development, AI, and Web Technologies**. Currently pursuing my B.Tech in Information Technology at Manakula Vinayagar Institute of Technology, Puducherry.
+
+I enjoy building full-stack applications, AI-powered solutions, and real-world projects while continuously improving my problem-solving and development skills.
+
+* **Core Focus:** Full-Stack Applications, AI-Powered Solutions, Web Technologies[cite: 1].
+* **Specialization & Interests:** Artificial Intelligence & Machine Learning, Full-Stack & Web Development, Cybersecurity & Zero Trust Systems, IoT & Smart Automation[cite: 1].
+* **Product Engineering Mindset:** Designing practical solutions, solving real-world problems, and turning ideas into efficient software[cite: 1].
+* **Open To:** Software Engineering Internships, AI/ML Collaborations, Full-Stack Project Contributions[cite: 1].
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+### Languages
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,js,html,css" /></a>
+
+### Frontend Engineering
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,bootstrap,wordpress,html,css" /></a>
+
+### Backend & Databases
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,mysql" /></a>
+
+### Cloud, DevOps & Tooling
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,git,github,arduino" /></a>
+
+</div>
+
+---
+
+## 🤖 AI / ML Core Expertise
+
+| Domain | Proficiency | Key Technologies & Details |
+| :--- | :---: | :--- |
+| **Deep Learning & Frameworks** | Intermediate | PyTorch, TensorFlow, Neural Network Architecture |
+| **Data Science & Processing** | Intermediate | NumPy, Pandas, Data Manipulation & Analysis |
+| **AI Integration** | Intermediate | FastAPI Model Serving, Intelligent Web Applications |
+| **IoT & Automation** | Intermediate | Arduino Integration, Smart Systems, Sensor Automation |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 Smart Automation & IoT System</b></summary>
+<br/>
+
+An integrated IoT and software solution leveraging sensors and microcontrollers for automated environment monitoring and real-time control[cite: 1].
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Python, Arduino, MySQL, FastAPI | Prototype / Local | Real-Time Sensor Processing | Local Authentication | Automated Manual Control Operations | [Link](https://github.com/Sivabalan-05) |
+
+#### Technical Overview
+Built an automated control pipeline connecting microcontrollers with a central backend to process incoming sensor data and trigger actions based on predefined thresholds.
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔹 AI-Powered Full-Stack Application</b></summary>
+<br/>
+
+Modern web application integrated with machine learning models to provide automated data processing and user predictions[cite: 1].
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| React, Python, FastAPI, PyTorch | Web Application | Optimized Inference Response | Standard API Authentication | Streamlined User Decision Making | [Link](https://github.com/Sivabalan-05) |
+
+#### Technical Overview
+Engineered a RESTful web application featuring a React user interface connected to a FastAPI backend serving PyTorch AI models.
+</details>
+
+---
+
+## 💼 Experience
+
+### Information Technology Undergraduate | Manakula Vinayagar Institute of Technology
+*Pursuing Degree*[cite: 1]
+
+Academic and practical software engineering focused on web development, core AI techniques, and smart technology solutions[cite: 1].
+
+* Developed multiple full-stack applications and AI-driven systems as part of coursework and self-directed project work[cite: 1].
+* Gained hands-on experience in data analysis, machine learning model creation, and modern web application development[cite: 1].
+* Explored cybersecurity fundamentals, Zero Trust network architectures, and hardware-software IoT integration[cite: 1].
+
+`Python` `React` `FastAPI` `PyTorch` `MySQL` `Git` `IoT`
+
+---
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| **Academic Projects** | Built real-world projects combining AI, IoT, and Full-Stack technology[cite: 1]. |
+| **Continuous Learning** | Expanding skillset in Cybersecurity, Zero Trust Systems, and Machine Learning[cite: 1]. |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+#### Cloud & Web Development
+![](https://img.shields.io/badge/Google%20Cloud-Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+#### Programming & AI
+![](https://img.shields.io/badge/Python-Development%20%26%20AI-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/GitHub-Sivabalan--05-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Sivabalan-05&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333ea&icon_color=a855f7&include_all_commits=true&count_private=true" height="175" />
+<img src="https://streak-stats.demolab.com/?user=Sivabalan-05&theme=tokyonight&hide_border=true&stroke=9333ea&background=1a1b26" height="175" />
+<br/><br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sivabalan-05&layout=compact&theme=tokyonight&hide_border=true&title_color=9333ea&include_all_commits=true&count_private=true" height="175" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sivabalan-05&theme=radical&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivabalan-05&theme=react-dark&bg_color=1a1b26&color=9333ea&line=a855f7&point=ffffff&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sivabalan-05/Sivabalan-05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sivabalan-05/Sivabalan-05/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sivabalan-05/Sivabalan-05/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Deep Learning Architectures
+  - Cybersecurity & Zero Trust Frameworks
+Building:
+  - Full-Stack Web Applications using React & FastAPI
+  - Machine Learning Models with PyTorch & TensorFlow
+Exploring:
+  - Smart Automation & IoT Innovations
+Open To:
+  - Software Engineering Internships
+  - Collaborative AI & Web Projects
