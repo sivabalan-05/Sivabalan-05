@@ -26,10 +26,10 @@ Hi! I'm **Sivabalan D**, an Information Technology student passionate about **So
 
 I enjoy building full-stack applications, AI-powered solutions, and real-world projects while continuously improving my problem-solving and development skills.
 
-* **Core Focus:** Full-Stack Applications, AI-Powered Solutions, Web Technologies[cite: 1].
-* **Specialization & Interests:** Artificial Intelligence & Machine Learning, Full-Stack & Web Development, Cybersecurity & Zero Trust Systems, IoT & Smart Automation[cite: 1].
-* **Product Engineering Mindset:** Designing practical solutions, solving real-world problems, and turning ideas into efficient software[cite: 1].
-* **Open To:** Software Engineering Internships, AI/ML Collaborations, Full-Stack Project Contributions[cite: 1].
+* **Core Focus:** Full-Stack Applications, AI-Powered Solutions, Web Technologies.
+* **Specialization & Interests:** Artificial Intelligence & Machine Learning, Full-Stack & Web Development, Cybersecurity & Zero Trust Systems, IoT & Smart Automation.
+* **Product Engineering Mindset:** Designing practical solutions, solving real-world problems, and turning ideas into efficient software.
+* **Open To:** Software Engineering Internships, AI/ML Collaborations, Full-Stack Project Contributions.
 
 ---
 
@@ -70,7 +70,7 @@ I enjoy building full-stack applications, AI-powered solutions, and real-world p
 <summary><b>🔹 Smart Automation & IoT System</b></summary>
 <br/>
 
-An integrated IoT and software solution leveraging sensors and microcontrollers for automated environment monitoring and real-time control[cite: 1].
+An integrated IoT and software solution leveraging sensors and microcontrollers for automated environment monitoring and real-time control.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -86,7 +86,7 @@ Built an automated control pipeline connecting microcontrollers with a central b
 <summary><b>🔹 AI-Powered Full-Stack Application</b></summary>
 <br/>
 
-Modern web application integrated with machine learning models to provide automated data processing and user predictions[cite: 1].
+Modern web application integrated with machine learning models to provide automated data processing and user predictions.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -101,13 +101,13 @@ Engineered a RESTful web application featuring a React user interface connected 
 ## 💼 Experience
 
 ### Information Technology Undergraduate | Manakula Vinayagar Institute of Technology
-*Pursuing Degree*[cite: 1]
+*Pursuing Degree*
 
-Academic and practical software engineering focused on web development, core AI techniques, and smart technology solutions[cite: 1].
+Academic and practical software engineering focused on web development, core AI techniques, and smart technology solutions.
 
-* Developed multiple full-stack applications and AI-driven systems as part of coursework and self-directed project work[cite: 1].
-* Gained hands-on experience in data analysis, machine learning model creation, and modern web application development[cite: 1].
-* Explored cybersecurity fundamentals, Zero Trust network architectures, and hardware-software IoT integration[cite: 1].
+* Developed multiple full-stack applications and AI-driven systems as part of coursework and self-directed project work.
+* Gained hands-on experience in data analysis, machine learning model creation, and modern web application development.
+* Explored cybersecurity fundamentals, Zero Trust network architectures, and hardware-software IoT integration.
 
 `Python` `React` `FastAPI` `PyTorch` `MySQL` `Git` `IoT`
 
@@ -119,8 +119,8 @@ Academic and practical software engineering focused on web development, core AI 
 
 | Recognition | Details |
 | :--- | :--- |
-| **Academic Projects** | Built real-world projects combining AI, IoT, and Full-Stack technology[cite: 1]. |
-| **Continuous Learning** | Expanding skillset in Cybersecurity, Zero Trust Systems, and Machine Learning[cite: 1]. |
+| **Academic Projects** | Built real-world projects combining AI, IoT, and Full-Stack technology. |
+| **Continuous Learning** | Expanding skillset in Cybersecurity, Zero Trust Systems, and Machine Learning. |
 
 </div>
 
