@@ -163,35 +163,11 @@ Academic and practical software engineering focused on web development, core AI 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sivabalan-05&theme=radical&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivabalan-05&theme=react-dark&bg_color=1a1b26&color=9333ea&line=a855f7&point=ffffff&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sivabalan-05/Sivabalan-05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sivabalan-05/Sivabalan-05/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sivabalan-05/Sivabalan-05/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
