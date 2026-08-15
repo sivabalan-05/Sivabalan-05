@@ -9,7 +9,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Information%20Technology-4C1D95?style=for-the-badge&logo=academicons&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Puducherry%2C%20India-581C87?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
   <a href="mailto:siva38938@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/Siva Balan"><img src="https://img.shields.io/badge/LinkedIn-Connect-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/siva-balan-a344762a6"><img src="https://img.shields.io/badge/LinkedIn-Connect-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br/><br/>
 
