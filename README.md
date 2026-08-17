@@ -130,8 +130,8 @@ Academic and practical software engineering focused on web development, core AI 
 
 <div align="center">
 
-#### Cloud & Web Development
-![](https://img.shields.io/badge/Google%20Cloud-Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+#### CS50's Introduction to Programming With Python
+![]([https://img.shields.io/badge/Google%20Cloud-Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white](https://certificates.cs50.io/a39c224e-5082-48b2-be55-0231a324a3ba.pdf?size=letter))
 
 #### Programming & AI
 ![](https://img.shields.io/badge/Python-Development%20%26%20AI-3670A0?style=for-the-badge&logo=python&logoColor=white)
