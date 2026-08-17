@@ -130,13 +130,11 @@ Academic and practical software engineering focused on web development, core AI 
 
 <div align="center">
 
-
-#### CS50's Introduction To Programming With Python
-![](https://img.shields.io/badge/Python-Development%20%26%20AI-3670A0?style=for-the-badge&logo=python&logoColor=white)
-
-#### IBM's Getting Started with Cybersecurity
+#### Cloud & Web Development
 ![](https://img.shields.io/badge/Google%20Cloud-Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+#### Programming & AI
+![](https://img.shields.io/badge/Python-Development%20%26%20AI-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -152,16 +150,16 @@ Academic and practical software engineering focused on web development, core AI 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Sivabalan-05&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333ea&icon_color=a855f7&include_all_commits=true&count_private=true" height="175" />
-<img src="https://github-readme-streak-stats-five.vercel.app/?user=Sivabalan-05&theme=tokyonight&hide_border=true&stroke=9333ea&background=1a1b26" height="175" />
-<br/><br/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sivabalan-05&layout=compact&theme=tokyonight&hide_border=true&title_color=9333ea&include_all_commits=true&count_private=true" height="175" />
+<a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/Followers-Sivabalan--05-7E22CE?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Sivabalan-05?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public-6B21A8?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/Status-Active%20Developer-581C87?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
+
 ---
 
 ## 🎯 Current Focus
