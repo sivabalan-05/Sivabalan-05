@@ -175,7 +175,6 @@ Academic and practical software engineering focused on web development, core AI 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivabalan-05&theme=react-dark&bg_color=1a1b26&color=9333ea&line=a855f7&point=ffffff&hide_border=true" width="100%" />
-
 </div>
 
 ---
