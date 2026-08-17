@@ -126,18 +126,15 @@ Academic and practical software engineering focused on web development, core AI 
 
 ---
 
-## 📜Top Certifications
+## 📜 Certifications
 
 <div align="center">
 
-#### CS50's Introduction to Programming With Python
-![]([https://img.shields.io/badge/Google%20Cloud-Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white](https://certificates.cs50.io/a39c224e-5082-48b2-be55-0231a324a3ba.pdf?size=letter )
+#### Cloud & Web Development
+![](https://img.shields.io/badge/Google%20Cloud-Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-#### IBM Getting Started with Cybersecurity
-![]([[https://img.shields.io/badge/Python-Development%20%26%20AI-3670A0?style=for-the-badge&logo=python&logoColor=white](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=474](https://acclaim-production-app.files.credly.com/uploads/printable_pdf/printable_pdf/f7a2597b-ba48-4c85-8f0d-7adb84254aa0/IBMDesign20260817-20-dz4pfq.pdf?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5DGBWDLSJNCDKBQR%2F20260817%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260817T162735Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=1b497bf46d6b515ed7c6274c0c388ef3441fa217e4750ffc2ab287289e6b1614)))
-
-#### HTML5 Application Development
-![]([https://img.shields.io/badge/Python-Development%20%26%20AI-3670A0?style=for-the-badge&logo=python&logoColor=white](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=474))
+#### Programming & AI
+![](https://img.shields.io/badge/Python-Development%20%26%20AI-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -158,23 +155,10 @@ Academic and practical software engineering focused on web development, core AI 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sivabalan-05&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333ea&icon_color=a855f7&include_all_commits=true&count_private=true" height="175" />
-
-<img src="https://streak-stats.demolab.com/?user=Sivabalan-05&theme=tokyonight&hide_border=true&stroke=9333ea&background=1a1b26" height="175" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabalan-05&theme=tokyonight&hide_border=true&stroke=9333ea&background=1a1b26" height="175" />
 <br/><br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivabalan-05&layout=compact&theme=tokyonight&hide_border=true&title_color=9333ea&include_all_commits=true&count_private=true" height="175" />
 
-</div>
-
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivabalan-05&theme=react-dark&bg_color=1a1b26&color=9333ea&line=a855f7&point=ffffff&hide_border=true" width="100%" />
 </div>
 
 ---
