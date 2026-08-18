@@ -141,7 +141,7 @@ Academic and practical software engineering focused on web development, core AI 
 </div>
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
