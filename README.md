@@ -20,7 +20,7 @@
 
 ---
 
-## 🧬 About Me
+##  About Me
 
 Hi! I'm **Sivabalan D**, an Information Technology student passionate about **Software Development, AI, and Web Technologies**. Currently pursuing my B.Tech in Information Technology at Manakula Vinayagar Institute of Technology, Puducherry.
 
@@ -33,7 +33,7 @@ I enjoy building full-stack applications, AI-powered solutions, and real-world p
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -53,7 +53,7 @@ I enjoy building full-stack applications, AI-powered solutions, and real-world p
 
 ---
 
-## 🤖 AI / ML Core Expertise
+## AI / ML Core Expertise
 
 | Domain | Proficiency | Key Technologies & Details |
 | :--- | :---: | :--- |
@@ -64,7 +64,7 @@ I enjoy building full-stack applications, AI-powered solutions, and real-world p
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>🔹 Smart Automation & IoT System</b></summary>
@@ -98,7 +98,7 @@ Engineered a RESTful web application featuring a React user interface connected 
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Information Technology Undergraduate | Manakula Vinayagar Institute of Technology
 *Pursuing Degree*
@@ -113,7 +113,7 @@ Academic and practical software engineering focused on web development, core AI 
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Academic and practical software engineering focused on web development, core AI 
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Academic and practical software engineering focused on web development, core AI 
 </div>
 
 ---
-📊 GitHub Stats
+ GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=sivabalan-05&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333ea&icon_color=a855f7&include_all_commits=true&count_private=true" height="170" />
 <img src="https://streak-stats.demolab.com/?user=sivabalan-05&theme=tokyonight&hide_border=true&stroke=9333ea&background=1a1b26" height="170" />
@@ -159,7 +159,7 @@ Academic and practical software engineering focused on web development, core AI 
 
 <br/>
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -169,7 +169,7 @@ Academic and practical software engineering focused on web development, core AI 
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <div align="center">
 
@@ -181,7 +181,7 @@ Academic and practical software engineering focused on web development, core AI 
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
