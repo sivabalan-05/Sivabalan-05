@@ -156,9 +156,6 @@ Academic and practical software engineering focused on web development, core AI 
 
 <div align="center">
 
-<a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/Followers-Sivabalan--05-7E22CE?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Sivabalan-05?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public-6B21A8?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/Status-Active%20Developer-581C87?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
