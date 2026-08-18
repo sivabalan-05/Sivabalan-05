@@ -10,12 +10,12 @@
   <a href="#"><img src="https://img.shields.io/badge/Location-Puducherry%2C%20India-581C87?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
   <a href="mailto:siva38938@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/siva-balan-a344762a6"><img src="https://img.shields.io/badge/LinkedIn-Connect-7E22CE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/sivabalan-05"><img src="https://img.shields.io/badge/GitHub-Follow-A855F7?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Sivabalan-05&color=7e22ce&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Sivabalan-05?label=FOLLOWERS&style=flat-square&color=6b21a8" />
-  <img src="https://img.shields.io/github/stars/Sivabalan-05?label=STARS&style=flat-square&color=581c87" />
+  <img src="https://komarev.com/ghpvc/?username=sivabalan-05&color=7e22ce&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/sivabalan-05?label=FOLLOWERS&style=flat-square&color=6b21a8" />
+  <img src="https://img.shields.io/github/stars/sivabalan-05?label=STARS&style=flat-square&color=581c87" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ An integrated IoT and software solution leveraging sensors and microcontrollers 
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Arduino, MySQL, FastAPI | Prototype / Local | Real-Time Sensor Processing | Local Authentication | Automated Manual Control Operations | [Link](https://github.com/Sivabalan-05) |
+| Python, Arduino, MySQL, FastAPI | Prototype / Local | Real-Time Sensor Processing | Local Authentication | Automated Manual Control Operations | [Link](https://github.com/sivabalan-05) |
 
 #### Technical Overview
 Built an automated control pipeline connecting microcontrollers with a central backend to process incoming sensor data and trigger actions based on predefined thresholds.
@@ -90,7 +90,7 @@ Modern web application integrated with machine learning models to provide automa
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| React, Python, FastAPI, PyTorch | Web Application | Optimized Inference Response | Standard API Authentication | Streamlined User Decision Making | [Link](https://github.com/Sivabalan-05) |
+| React, Python, FastAPI, PyTorch | Web Application | Optimized Inference Response | Standard API Authentication | Streamlined User Decision Making | [Link](https://github.com/sivabalan-05) |
 
 #### Technical Overview
 Engineered a RESTful web application featuring a React user interface connected to a FastAPI backend serving PyTorch AI models.
@@ -143,17 +143,17 @@ Academic and practical software engineering focused on web development, core AI 
 ---
 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=Sivabalan-05&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333ea&icon_color=a855f7&include_all_commits=true&count_private=true" height="170" />
-<img src="https://streak-stats.demolab.com/?user=Sivabalan-05&theme=tokyonight&hide_border=true&stroke=9333ea&background=1a1b26" height="170" />
+<img src="https://github-readme-stats.shion.dev/api?username=sivabalan-05&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333ea&icon_color=a855f7&include_all_commits=true&count_private=true" height="170" />
+<img src="https://streak-stats.demolab.com/?user=sivabalan-05&theme=tokyonight&hide_border=true&stroke=9333ea&background=1a1b26" height="170" />
 <br/><br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sivabalan-05&layout=compact&theme=tokyonight&hide_border=true&title_color=9333ea&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sivabalan-05&layout=compact&theme=tokyonight&hide_border=true&title_color=9333ea&include_all_commits=true&count_private=true" height="170" />
 </div>
 
 ## 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/GitHub-Sivabalan--05-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sivabalan-05"><img src="https://img.shields.io/badge/GitHub-sivabalan--05-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -163,9 +163,9 @@ Academic and practical software engineering focused on web development, core AI 
 
 <div align="center">
 
-<a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/Followers-Sivabalan--05-7E22CE?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Sivabalan-05?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public-6B21A8?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Sivabalan-05"><img src="https://img.shields.io/badge/Status-Active%20Developer-581C87?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sivabalan-05"><img src="https://img.shields.io/badge/Followers-sivabalan--05-7E22CE?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sivabalan-05?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public-6B21A8?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sivabalan-05"><img src="https://img.shields.io/badge/Status-Active%20Developer-581C87?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -185,5 +185,3 @@ Exploring:
 Open To:
   - Software Engineering Internships
   - Collaborative AI & Web Projects
-
-
