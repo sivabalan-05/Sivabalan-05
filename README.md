@@ -153,8 +153,8 @@ Academic and practical software engineering focused on web development, core AI 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=sam-francis06&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=8&hide_title=true" width="49%"/>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sam-francis06&theme=react&border_radius=8" width="49%"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=sivabalan-05&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=8&hide_title=true" width="49%"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sivabalan-05&theme=react&border_radius=8" width="49%"/>
 </p>
 
 <br/>
