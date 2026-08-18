@@ -150,20 +150,14 @@ Academic and practical software engineering focused on web development, core AI 
 </div>
 
 ---
-## 📊 GitHub Analytics
+## GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=sam-francis06&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=8&hide_title=true" width="49%"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sam-francis06&theme=react&border_radius=8" width="49%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivabalan-05&show_icons=true&theme=tokyonight&hide_border=true&title_color=9333ea&icon_color=a855f7&include_all_commits=true&count_private=true" height="175" />
-
-<img src="https://streak-stats.demolab.com/?user=Sivabalan-05&theme=tokyonight&hide_border=true&stroke=9333ea&background=1a1b26" height="175" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivabalan-05&layout=compact&theme=tokyonight&hide_border=true&title_color=9333ea&include_all_commits=true&count_private=true" height="175" />
-
-</div>
----
+<br/>
 
 ## 💻 Coding Profiles
 
