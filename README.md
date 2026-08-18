@@ -164,4 +164,19 @@ Academic and practical software engineering focused on web development, core AI 
 
 ---
 
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Deep Learning Architectures
+  - Cybersecurity & Zero Trust Frameworks
+Building:
+  - Full-Stack Web Applications using React & FastAPI
+  - Machine Learning Models with PyTorch & TensorFlow
+Exploring:
+  - Smart Automation & IoT Innovations
+Open To:
+  - Software Engineering Internships
+  - Collaborative AI & Web Projects
+
 
